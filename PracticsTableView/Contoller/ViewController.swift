@@ -11,8 +11,6 @@ class ViewController: UIViewController {
 //MARK:-View Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
-       
-
     }
 }
 //MARK:- TableView Datasource
